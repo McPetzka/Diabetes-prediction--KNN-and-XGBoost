@@ -10,5 +10,5 @@ This dataset is originally from the National Institute of Diabetes and Digestive
  #### Objective
  - EDA
  - Data preprocessing
- - Implementng two ML models: KNN and XGBoos
+ - Implementng two ML models: KNN and XGBoost
  - Evaluating models
